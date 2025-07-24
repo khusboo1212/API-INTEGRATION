@@ -51,4 +51,4 @@ Error messages are shown if the API call fails.
 
 ## Author
 
-Himani Kotnala — [@khusboo](https://github.com/khusboo1212)
+khusboo — [@khusboo](https://github.com/khusboo1212)
